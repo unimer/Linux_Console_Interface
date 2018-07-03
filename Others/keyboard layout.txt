@@ -1,0 +1,27 @@
+========================================================================== IDLE
+
+Q	W	E	R	T 	Y	U	BACKSPACE
+		
+A	S	D	F	G	H	I	ENTER
+
+J	K	L	M	N	O       P	SHIFT
+
+Z	X	C	V	B     SPACE    NUM	<= =>
+
+============================================================= NUMBS AND SYMBOLS
+-	/	:	;	7	8	9	BACKSPACE
+	
+Up  Dn	$	&	4	5	6	ENTER
+				
+_	@	'	"	1	2	3	SHIFT
+		
+.	,	?	!	0     SPACE    NUM	<= =>
+
+======================================================================= SYMBOLS
+[	]	{	}	(	)	=	BACKSPACE
+
++	-	*	/	<	>	~	ENTER
+
+%	#	$	|	\	^	&	SHIFT
+
+.	,	?	!	@     SPACE    NUM	<= =>
