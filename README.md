@@ -1,1 +1,3 @@
-READ.me
+<h2> Description </h2>
+<p> As we know, every Linux distribudion supports communication with console over serial or USB ports. For this purpose we commonly use tty0 console. When we enable communication with console over serial port or USB, Linux is sending ASCII characters for text representation and some ANSI data for description of terminal working space and settings. </p>
+<p> This project implies development of device (terminal console) which is receiving characters sent by Linux computer over RS-232 or USB, and prints data on graphic display. This device has keypad composed of 32 button/switches which allows to user to insert commands and to send them to Linux computer for processing. Communication with computer can be accomplished on two ways, connecting to USB port or serial port, which gives to this device compatibility with various types of devices that are using Linux operating system.  </p> 
